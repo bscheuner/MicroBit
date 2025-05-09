@@ -1,0 +1,29 @@
+= MicroBit
+
+Der Microbit ist ein Micro-Controller, der enwickelt wurde, um kleine IOT-Projekte zu machen.
+Er ist mit unterschiedlichen Tools programmierbar. Hier wird der Webeditor verwendet,
+bei dem mit Blockly, Javascript und Python gearbeitet werden kann.
+
+Webseite: https://microbit.org/
+
+== Webeditor
+
+Der Webeditor ist über folgenden Link erreichbar: https://makecode.microbit.org/#editor
+
+Der Webeditor beinhaltet neben dem Programmiereditor auch noch einen Simulator, in dem die Programme
+getestet werden können.
+
+image::Bilder/ProgrammierUmgebung.png[]
+
+
+
+== Aufgaben
+
+Die vier Programme, welche programmiert werden können sind:
+
+. link:Atmung/Leitprogramm.adoc[Atmung]
+. link:Schrittzaehler/Leitprogramm.adoc[Schrittzähler]
+. link:SchereSteinPapier/Leitprogramm.adoc[Schere Stein Papier]
+. link:Kennenlernen/Leitprogramm.adoc[Match Finder]
+
+
