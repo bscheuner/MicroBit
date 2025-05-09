@@ -15,7 +15,12 @@ getestet werden können.
 
 image::Bilder/ProgrammierUmgebung.png[]
 
+== Tutorials von Microbit.org
 
+. Kompass 1: https://microbit.org/projects/make-it-code-it/compass-bearing/
+. Kompass 2: https://microbit.org/projects/make-it-code-it/compass-north/
+. Thermometer:  https://microbit.org/projects/make-it-code-it/thermometer
+. Thermometer 2: https://microbit.org/projects/make-it-code-it/max-min-thermometer/
 
 == Aufgaben
 
@@ -25,5 +30,11 @@ Die vier Programme, welche programmiert werden können sind:
 . link:Schrittzaehler/Leitprogramm.adoc[Schrittzähler]
 . link:SchereSteinPapier/Leitprogramm.adoc[Schere Stein Papier]
 . link:Kennenlernen/Leitprogramm.adoc[Match Finder]
+
+== JoyCar
+
+Webseite: https://joycar.joy-it.net/de/
+
+Anleitung: link:JoyCar/MB-Joy-Car_Anleitung_2021-04-30.pdf[MB-Joy-Car_Anleitung_2021-04-30.pdf]
 
 
