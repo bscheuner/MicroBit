@@ -26,15 +26,15 @@ image::Bilder/ProgrammierUmgebung.png[]
 
 Die vier Programme, welche programmiert werden können sind:
 
-- [Atmung](Atmung/Leitprogramm.adoc)
-- [Schrittzähler](Schrittzaehler/Leitprogramm.adoc)
-- [Schere Stein Papier](SchereSteinPapier/Leitprogramm.adoc)
-- [Match Finder](Kennenlernen/Leitprogramm.adoc)
+- [Atmung](/Atmung/Leitprogramm.adoc)
+- [Schrittzähler](/Schrittzaehler/Leitprogramm.adoc)
+- [Schere Stein Papier](/SchereSteinPapier/Leitprogramm.adoc)
+- [Match Finder](/Kennenlernen/Leitprogramm.adoc)
 
 ## JoyCar
 
 Webseite: [https://joycar.joy-it.net/de/](https://joycar.joy-it.net/de/)
 
-Anleitung: [MB-Joy-Car_Anleitung_2021-04-30.pdf](JoyCar/MB-Joy-Car_Anleitung_2021-04-30.pdf)
+Anleitung: [MB-Joy-Car_Anleitung_2021-04-30.pdf](/JoyCar/MB-Joy-Car_Anleitung_2021-04-30.pdf)
 
 
