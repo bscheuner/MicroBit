@@ -14,6 +14,7 @@ Der Webeditor beinhaltet neben dem Programmiereditor auch noch einen Simulator, 
 getestet werden können.
 
 image::Bilder/ProgrammierUmgebung.png[]
+![MakerCode-Overview](../Bilder/anvil-image.png "MakerCode-Overview")
 
 ## Tutorials von Microbit.org
 
