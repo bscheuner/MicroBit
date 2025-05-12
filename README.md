@@ -13,8 +13,7 @@ Der Webeditor ist über folgenden Link erreichbar: [https://makecode.microbit.or
 Der Webeditor beinhaltet neben dem Programmiereditor auch noch einen Simulator, in dem die Programme
 getestet werden können.
 
-image::Bilder/ProgrammierUmgebung.png[]
-![MakerCode-Overview](../Bilder/anvil-image.png "MakerCode-Overview")
+![MakerCode-Overview](/Bilder/ProgrammierUmgebung.png "MakerCode-Overview")
 
 ## Tutorials von Microbit.org
 
