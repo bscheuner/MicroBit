@@ -27,7 +27,7 @@ getestet werden können.
 
 Die vier Programme, welche programmiert werden können sind:
 
-- [Atmung](/Atmung/Leitprogramm.adoc)
+- [Atmung](https://github.com/bscheuner/MicroBit/blob/main/Atmung/Leitprogramm.adoc)
 - [Schrittzähler](/Schrittzaehler/Leitprogramm.adoc)
 - [Schere Stein Papier](/SchereSteinPapier/Leitprogramm.adoc)
 - [Match Finder](/Kennenlernen/Leitprogramm.adoc)
