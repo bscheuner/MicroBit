@@ -15,15 +15,12 @@ getestet werden können.
 
 ![MakeCode-Overview](/Bilder/ProgrammierUmgebung.png)
 
-<picture>
-  <img src="Bilder/ProgrammierUmgebung.png" alt="MakeCode" style="width:auto;">
-</picture> 
 
 ## Tutorials von Microbit.org
 
 - Kompass 1: [https://microbit.org/projects/make-it-code-it/compass-bearing/](https://microbit.org/projects/make-it-code-it/compass-bearing/)
 - Kompass 2: [https://microbit.org/projects/make-it-code-it/compass-north/](https://microbit.org/projects/make-it-code-it/compass-north/)
-- Thermometer:  [https://microbit.org/projects/make-it-code-it/thermometer](https://microbit.org/projects/make-it-code-it/thermometer)
+- Thermometer 1:  [https://microbit.org/projects/make-it-code-it/thermometer](https://microbit.org/projects/make-it-code-it/thermometer)
 - Thermometer 2: [https://microbit.org/projects/make-it-code-it/max-min-thermometer/](https://microbit.org/projects/make-it-code-it/max-min-thermometer/)
 
 ## Aufgaben
@@ -31,9 +28,9 @@ getestet werden können.
 Die vier Programme, welche programmiert werden können sind:
 
 - [Atmung](https://github.com/bscheuner/MicroBit/blob/main/Atmung/Leitprogramm.adoc)
-- [Schrittzähler](/Schrittzaehler/Leitprogramm.adoc)
-- [Schere Stein Papier](/SchereSteinPapier)
-- [Match Finder](https://github.com/bscheuner/MicroBit/Kennenlernen/Leitprogramm.adoc)
+- [Schrittzähler](https://github.com/bscheuner/MicroBit/blob/main/Schrittzaehler/Leitprogramm.adoc)
+- [Schere Stein Papier](https://github.com/bscheuner/MicroBit/blob/main/SchereSteinPapier/Leitprogramm.adoc)
+- [Match Finder](https://github.com/bscheuner/MicroBit/blob/main/Kennenlernen/Leitprogramm.adoc)
 
 ## JoyCar
 
